@@ -1,2 +1,2 @@
-# Smart-Predictive-Modeling
-Smart-Predictive-Modeling
+# Smart-Predictive-Modeling-for-Rental-Property-Prices
+Smart Predictive Modeling for Rental  Property Prices
